@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @SOCRAMBLLE
-- 👀 I’m interested in Coding and general IT
-- 🌱 I’m currently learning Full Stack Web Development and Python
-- 💞️ I’m looking to collaborate on the Dev's Community and keep learning new things!
+![mfraga header](/HeaderGit.mp4)
+
+[Personal Website](https://mfraga.site)
+
+<h1 align="center">Hi 👋, I'm Marcos Fraga!</h1>
+<h3 align="center">A coding enthusiast trying to become a Full Stack Developer </h3>
