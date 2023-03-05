@@ -16,7 +16,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Marcos Fraga!</h1>
-<h3 align="center">A coding enthusiast trying to become a Full Stack Web Developer </h3>
+<h3 align="center">A coding enthusiast working to become a Full Stack Web Developer </h3>
 
 <p></p>
 <p></p>
