@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,graphql,react" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,graphql" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,bootstrap,jquery,express,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,bootstrap,jquery,express,py" />
   </a>
 </p>
 
