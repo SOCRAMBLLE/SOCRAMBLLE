@@ -5,7 +5,7 @@
 <p></p>
 
 <div align="center">
-  <a href="https://mfraga.site/" target="_blank">Personal Website</a>
+  <a href="https://marcosfraga.ch/" target="_blank">Personal Website</a>
  </div>
  
  <p></p>
