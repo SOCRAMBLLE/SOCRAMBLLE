@@ -1,6 +1,6 @@
 
 
-<div align="center"><img src="/HeaderGit.gif"></div>
+<div align="center"><img src="https://marcosfraga.ch/img/thumbnail.png"></div>
 
 <p></p>
 
