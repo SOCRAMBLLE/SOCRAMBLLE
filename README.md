@@ -26,8 +26,9 @@
 </h4>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="46" height="46" alt="TypeScript" />&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,graphql" />
+    <img src="https://skillicons.dev/icons?i=mysql,graphql" />
   </a>
 </p>
 
@@ -37,7 +38,6 @@
 :eyes: I am interested to learn:
 </h4>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="46" height="46" alt="TypeScript" />&nbsp;
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=vue,angular,svg" />
   </a>
@@ -50,7 +50,7 @@
 </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,bootstrap,jquery,express,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,bootstrap,jquery,express,py,mongodb" />
   </a>
 </p>
 
