@@ -10,9 +10,6 @@
  
  <p></p>
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/56f6e3ac09e0c5f9d1c11be1bde42b165894e4f11bd4c3ca41ed91c0e59b0ec9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d534f4352414d424c4c45" alt="Profile Views Counter">
-</div>
 
 
 <h1 align="center">Hi 👋, I'm Marcos Fraga!</h1>
